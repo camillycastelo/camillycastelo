@@ -1,4 +1,4 @@
-Olá, eu me chamo Camilly Castelo 👋
+Olá, eu me chamo <strong> Camilly Castelo </strong> 👋
 
 - Atualmente eu estou cursando Ciência da Computação na Universidade Cruzeiro do Sul.
 
