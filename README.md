@@ -11,7 +11,6 @@ Olá, eu me chamo <strong> Camilly Castelo </strong> 👋
       <a href="https://www.linkedin.com/in/camilly-castelo-de-carvalho-b5a85a231/"> 
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
       </a>
-- Pronomes: Ela/Dela.
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
